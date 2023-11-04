@@ -46,7 +46,7 @@ class Solution {
 
 public class NTreeDiameter {
     public static void main(String[] args) {
-        // Example usage
+        //attempt
         Node root = new Node(1);
         root.children.add(new Node(3));
         root.children.add(new Node(2));
